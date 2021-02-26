@@ -25,7 +25,6 @@ But there are more sustainable routes emerging. As the CryptoArt NFT market is e
 
 ## Glossary
 The purpose of this section is to introduce concepts in an incredibly brief (1-2 sentences each) manner. For more information please follow the links. 
-(TODO: more links?)
 
 - **Blockchain**: A decentralized database. The technicalities of this are not relevant for our discussion. What is important to know however, is that there are many different blockchains (e.g. Bitcoin, Ethereum, Cardano, Algorand, Polkadot etc), and usually, each blockchain has its own (crypto)currency.
 - **Cryptocurrency**: Magic internet money. Bitcoin (BTC) is the most well known cryptocurrency and the oldest. Ethereum (ETH) is another well known cryptocurrency (and the basis for most current CryptoArt platforms). There are thousands of other cryptocurrencies (typically small volume cryptocurrencies are collectively known as **altcoins**).
