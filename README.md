@@ -36,7 +36,7 @@ Detailed description: https://opensea.io/blog/guides/non-fungible-tokens
 - **Minting an NFT**: The act of ‘creating’ an NFT, i.e. registering the token on the blockchain, and associating it with your media (e.g. file). 
 - **NFT Platform / Marketplace**: A website which allows people to buy & sell NFTs. Think ebay or Amazon, except it uses a blockchain in the background. Different platforms can:
     - use different blockchains (though currently nearly all of them use Ethereum)
-    - Be open to everybody (e.g. ebay) vs invite only and curated (e.g. galleries)
+    - everybody can register (e.g. ebay) vs everybody can apply but platform manually accepts and verifies, vs invite only and heavily curated (e.g. galleries)
     - **NFT Minting only** (website uses its own smart-contract) vs **NFT Factory** (allows artist to own smart-contract, this can allow artist more control)
     - Compatible with other platforms (e.g. list the same work on multiple platforms)
 - **Gas fee**: A fee one must pay (usually paid by the seller, i.e. artist) to be able to mint (think ebay listing fee). This fee goes not to the platform, but to the blockchain. Currently Ethereum gas fees are very high (e.g. >$100) because the network is very congested. These fees vary depending on the traffic on network, some days and times are dramatically less or more due to current gas demand. There are some existing and WIP solutions discussed in the next section.
