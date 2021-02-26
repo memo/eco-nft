@@ -91,7 +91,7 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 ### Viv3 - open marketplace for digital art
 - https://viv3.com/ 
 - Blockchain: **Flow** (by CryptoKitties folks, used by one of the largest NFT platforms, [NBA topshots](https://www.nbatopshot.com/))
-- Open to everybody (not invite only or curated)
+- Open application (not invite only or curated)
 
 ### Cargo - open marketplace for all kinds of digital collectibles
 - https://cargo.build/
