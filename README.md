@@ -158,6 +158,11 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 - Blockchain: **NEAR**
 - Open to everybody (not invite only or curated, but verified)
 
+### Solible - he marketplace for redeemable NFTs
+- https://solible.com
+- Blockchain: **Solana** (SOL)
+- Open to everybody ([how to mint](https://help.bonfida.com/solible/listing/))
+
 ### Lovada - inclusive marketplace for digital art
 - https://twitter.com/lovadaart
 - Blockchain: **Cardano** (ADA)
