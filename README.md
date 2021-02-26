@@ -78,6 +78,12 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 - NFT Factory: allows users to create their own contracts 
 - No gas fees (lazy minting)
 
+### KodaDot - open marketplace for all kinds of digital collectibles
+- https://kodadot.xyz/
+- Blockchain: **Kusama**/**Polkadot**
+- implemented RMRK.app standard
+- Open application (not invite only or curated)
+
 ### Mintbase - open marketplace for all kinds of digital collectibles
 - https://mintbase.io/ 
 - Blockchain: **Ethereum** (ETH), but **NEAR** coming soon [[link](https://near.org/how-mintbase-made-minting-nfts-cheaper-faster-scalable-and-secure-with-near/), [link](https://medium.com/mintbase/scaling-mintbase-with-near-503375d92702)]
