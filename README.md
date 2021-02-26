@@ -77,7 +77,6 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 - Open to everybody (not invite only or curated)
 - NFT Factory: allows users to create their own contracts 
 - No gas fees (lazy minting)
-- If minted on ETH, cross-compatible with SuperRare, Makersplace, Rarible
 
 ### Mintbase - open marketplace for all kinds of digital collectibles
 - https://mintbase.io/ 
