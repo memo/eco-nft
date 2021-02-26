@@ -208,7 +208,6 @@ There’s not much an individual CryptoArtist can do with the following informat
 The information in this document is a collective effort from many people including:
 
 Memo Akten, Primavera De Filippi, Joanie Lemercier, Addie Wagenknecht, Mat Dryhurst, Sutu_eats_flies, everybody in the "eco-friendly NFTs" discord
-(please add names)
 and many more.
 (Also see https://github.com/memo/eco-nft/graphs/contributors )
 
