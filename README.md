@@ -124,7 +124,7 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 - Minting Only (i.e. platform owns contract)
 
 ### Foundation - curated marketplace for digital art
-- https://knownorigin.io/ 
+- https://foundation.app/
 - Blockchain: **Ethereum** (ETH) 
 - Curated 
 
