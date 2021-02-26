@@ -147,6 +147,11 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 - Blockchain: **Ethereum** (ETH)
 - open to everybody (not invite only or curated)
 
+### Pixeos - open marketplace for digital art
+- https://pixeos.io/
+- Blockchain: **EOS**
+- open to everybody (not invite only or curated)
+
 ### Paras - curated marketplace for digital art cards
 - https://paras.id/ 
 - Blockchain: **NEAR**
