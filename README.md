@@ -7,19 +7,19 @@
 
 The CryptoArt NFT Market (i.e. selling digital art on the blockchain) is worth at least $150M - and this excludes some of the largest marketplaces like [opensea.io](http://opensea.io), (and this figure is quite heavily skewed of course, with the top artists earning the most [[1](https://cryptoart.io/artists)]).
 
-Selling work on a blockchain can be a technically challenging task. For this reason, many platforms and websites have emerged, aiming to make this process as seamless and easy as possible for artists. Unfortunately, currently many of these platforms are based on the Ethereum blockchain, which is very inefficient and ecologically costly by design. E.g. selling just a single-edition artwork on Ethereum has a carbon footprint starting at around 100 KgCO2, which is equivalent to a 1 hour flight (and depending on the platform, can reach a long-haul flight) [[2](https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053)]. Selling an edition of 100 works has a carbon footprint of over 10 tonnes CO2, which is more than the per capita annual footprint of someone in the EU - including all emissions from industry and trade [[3](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#co2-embedded-in-trade)].
+Selling work on a blockchain can be a technically challenging task. For this reason, many platforms and websites have emerged, aiming to make this process as seamless and easy as possible for artists. Unfortunately, currently many of these websites are based on the Ethereum blockchain, which is very inefficient and ecologically costly by design. E.g. selling just a single-edition artwork on Ethereum has a carbon footprint starting at around 100 KgCO2, which is equivalent to a 1 hour flight (and depending on the platform, can reach a long-haul flight) [[2](https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053)]. Selling an edition of 100 works has a carbon footprint of over 10 tonnes CO2, which is more than the per capita annual footprint of someone in the EU - including all emissions from industry and trade [[3](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#co2-embedded-in-trade)].
 
 But there are more sustainable routes emerging. As the CryptoArt NFT market is exploding in a gold-rush style free-for-all, there is a lack of clear information on the ecological impact of different approaches to NFTs. The purpose of this guide is to help CryptoArtists who are interested in exploring more sustainable alternatives. Currently, these more sustainable platforms do not have the volume of their unsustainable counterparts (i.e. the Ethereum-based platforms). For this reason, collectors and sales are likely to be significantly lower too on the more sustainable alternatives. However, hopefully as more artists migrate to these emerging waters, this can encourage platforms, developers, investors and collectors, to bridge to develop more **ecologically friendly and transparent platforms**. 
 
 
-**We are also hoping the platforms themselves will be more transparent on the matter, and we can eventually retire this document**. However, at the time of writing, not a single platform has publicly acknowledged the issue on their website. If they do, I will include the relevant links below.
+**We are also hoping the platforms themselves will be more transparent on the matter, and we can eventually retire this document**. However, at the time of writing, not a single platform has publicly acknowledged the issue on their website. When they do, the relevant links will be included below.
 
 
 **What would be great to see from CryptoArt / NFT platforms regarding sustainability**:
 - A statement of values
 - A commitment to transparency, communication and guidance for CryptoArtists
-- A roadmap (other than “We hope ETH2 will resolve the issue when it’s released in a year or two - e.g. alternate chains, side chains, lazy minting, layer 2 scaling which we are currently in the process of supporting. Including bounties to PoS chains and wallets to create a solution to PoW etc)
-- A donation of proceeds to carbon credits or to subsides the ecological footprint and their direct environmental impact
+- A roadmap (other than “We hope ETH2 will resolve the issue when it’s released in a year or two" - e.g. alternate chains, side chains, lazy minting, layer 2 scaling which are currently in the process of supporting. Including bounties to PoS chains and wallets to create a solution to PoW etc)
+- A donation of proceeds to carbon credits or to subsidize the ecological footprint and their direct environmental impact
 
 ---
 
@@ -31,9 +31,9 @@ The purpose of this section is to introduce concepts in an incredibly brief (1-2
 - **Cryptocurrency**: Magic internet money. Bitcoin (BTC) is the most well known cryptocurrency and the oldest. Ethereum (ETH) is another well known cryptocurrency (and the basis for most current CryptoArt platforms). There are thousands of other cryptocurrencies (typically small volume cryptocurrencies are collectively known as **altcoins**).
 - **CryptoArt**: Art registered on the blockchain. I.e. Media is associated with an **NFT**.
 https://www.artnome.com/news/2018/1/14/what-is-cryptoart 
-- **NFT**: Non-Fungible Token. A unique token (i.e. long number or string) that is associated with some media (e.g. image, video, poem, whatever) or any unique asset, such as a house, prorperty etc which is ID'ed and registered specifically on on the blockchain. 
+- **NFT**: Non-Fungible Token. A unique token (i.e. long number or string) that is associated with some media (e.g. image, video, poem, whatever) or any unique asset, such as a house, property etc which is ID'ed and registered specifically on the blockchain. 
 Detailed description: https://opensea.io/blog/guides/non-fungible-tokens
-- **Smart Contract**: A fancy way of saying “a program that lives and runs on the blockchain”. Smart contracts are what creates and keeps track of NFTs, ASAs, Dapps etc. Some of these types of contracts can be legally binded.  
+- **Smart Contract**: A fancy way of saying “a program that lives and runs on the blockchain”. Smart contracts are what creates and keeps track of NFTs, ASAs, Dapps etc. Some of these types of contracts can be legally binding.  
 - **Minting an NFT**: The act of ‘creating’ an NFT, i.e. registering the token on the blockchain, and associating it with your media (e.g. file). 
 - **NFT Platform / Marketplace**: A website which allows people to buy & sell NFTs. Think ebay or Amazon, except it uses a blockchain in the background. Different platforms can:
     - use different blockchains (though currently nearly all of them use Ethereum)
@@ -42,7 +42,7 @@ Detailed description: https://opensea.io/blog/guides/non-fungible-tokens
     - Compatible with other platforms (e.g. list the same work on multiple platforms)
 - **Gas fee**: A fee one must pay (usually paid by the seller, i.e. artist) to be able to mint (think ebay listing fee). This fee goes not to the platform, but to the blockchain. Currently Ethereum gas fees are very high (e.g. >$100) because the network is very congested. These fees vary depending on the traffic on network, some days and times are dramatically less or more due to current gas demand. There are some existing and WIP solutions discussed in the next section.
 - **Wallet**: A blockchain analog for a bank account on the blockchain, which contains your cryptocurrency. Different cryptocurrencies often require different wallets. Without going into too much detail, usually this is a piece of software (or browser extension) which gives you a **private seed** - which is typically a bunch of random words, like “red fox banana submarine tutu” (this is like your password for the wallet, which you should keep safe and never share with anyone!) and a corresponding ‘hashed’ version (e.g. 17ah2k25djhsa7974) which is your public facing **wallet address** (like an IBAN, so it’s what you share with others to get paid or trade).
-- **Consensus Algorithm**: The algorithm that underlies the blockchain. Details of this are irrelevant for this guide, except to say that Proof-of-Work (PoW) is the consensus algorithm that is hundreds of times more inefficient than the other ones (deliberately so), and is also the one which is the most common today unfortunately. For familiarity, here are some other consensus algorithms (how they work is not important for now): Proof-of-Work (PoW), Proof-of-Stake (PoS), Delegated Proof-of-Stake (DPoS), Proof-of-Authority(PoA), Byzantine Fault Tolerance (BFT), Delegated Byzantine Fault Tolerance (dBFT), etc.
+- **Consensus Algorithm**: The algorithm that underlies the blockchain. Details of this are irrelevant for this guide, except to say that Proof-of-Work (PoW) is the consensus algorithm that is hundreds of times more inefficient than the other ones (deliberately so), and is also the one which is the most common today unfortunately. For familiarity, here are some other consensus algorithms (how they work is not important for now): Proof-of-Work (PoW), Proof-of-Stake (PoS), Delegated Proof-of-Stake (DPoS), Proof-of-Authority (PoA), Byzantine Fault Tolerance (BFT), Delegated Byzantine Fault Tolerance (dBFT), etc.
 
 
 ---
@@ -207,7 +207,7 @@ There’s not much an individual CryptoArtist can do with the following informat
 ## Acknowledgements & Contributions
 The information in this document is a collective effort from many people including:
 
-Memo Akten, Primavera De Filippi, Joanie Lemercier, Addie Wagenknecht, Mat Dryhurst, Sutu_eats_flies, 
+Memo Akten, Primavera De Filippi, Joanie Lemercier, Addie Wagenknecht, Mat Dryhurst, Sutu_eats_flies, everybody in the "eco-friendly NFTs" discord
 (please add names)
 and many more.
 (Also see https://github.com/memo/eco-nft/graphs/contributors )
