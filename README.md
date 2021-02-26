@@ -196,7 +196,7 @@ There’s not much an individual CryptoArtist can do with the following informat
 - Cardano (ADA): https://cardano.org/ (PoS)
 - Solana (SOL): https://solana.com/ (PoS)
 - Polkadot (DOT): https://polkadot.network/ (PoS)
-
+- Stellar Lumens (XLM): https://www.stellar.org/ 
 
 ### WIP or recently released
 - Ethereum2: https://ethereum.org/en/eth2/ (PoS)
@@ -206,6 +206,7 @@ There’s not much an individual CryptoArtist can do with the following informat
 - HIVE: https://hive.io 
 - Kira: https://kira.network/ (PoS)
 - Harmony: https://www.harmony.one (PoS)
+- Stellar: https://www.stellar.org (SCP)
 ---
 
 ## Risks
