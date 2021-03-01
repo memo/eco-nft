@@ -9,7 +9,7 @@ The CryptoArt NFT Market (i.e. selling digital art on the blockchain) is worth a
 
 Selling work on a blockchain can be a technically challenging task. For this reason, many platforms and websites have emerged, aiming to make this process as seamless and easy as possible for artists. Unfortunately, currently many of these websites are based on the Ethereum blockchain, which is very inefficient and ecologically costly by design. E.g. selling just a single-edition artwork on Ethereum has a carbon footprint starting at around 100 KgCO2, which is equivalent to a 1 hour flight (and depending on the platform, can reach a long-haul flight) [[2](https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053)]. Selling an edition of 100 works has a carbon footprint of over 10 tonnes CO2, which is more than the per capita annual footprint of someone in the EU - including all emissions from industry and trade [[3](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#co2-embedded-in-trade)].
 
-But there are more sustainable routes emerging. As the CryptoArt NFT market is exploding in a gold-rush style free-for-all, there is a lack of clear information on the ecological impact of different approaches to NFTs. The purpose of this guide is to help CryptoArtists who are interested in exploring more sustainable alternatives. Currently, these more sustainable platforms do not have the volume of their unsustainable counterparts (i.e. the Ethereum-based platforms). For this reason, collectors and sales are likely to be significantly lower too on the more sustainable alternatives. However, hopefully as more artists migrate to these emerging waters, this can encourage platforms, developers, investors and collectors, to bridge to develop more **ecologically friendly and transparent platforms**. 
+But there are more sustainable routes emerging. As the CryptoArt NFT market is exploding in a gold-rush style free-for-all, there is a lack of clear information on the ecological impact of different approaches to NFTs. The purpose of this guide is to help CryptoArtists who are interested in exploring more sustainable alternatives. Currently, these more sustainable platforms do not have the volume of their unsustainable counterparts (i.e. the Ethereum-based platforms). For this reason, collectors and sales are likely to be significantly lower too on the more sustainable alternatives. However, hopefully as more artists migrate to these emerging waters, this can encourage platforms, developers, investors and collectors, to bridge to develop more **ecologically friendly and transparent platforms**.
 
 
 **We are also hoping the platforms themselves will be more transparent on the matter, and we can eventually retire this document**. However, at the time of writing, not a single platform has publicly acknowledged the issue on their website. When they do, the relevant links will be included below.
@@ -24,16 +24,16 @@ But there are more sustainable routes emerging. As the CryptoArt NFT market is e
 ---
 
 ## Glossary
-The purpose of this section is to introduce concepts in an incredibly brief (1-2 sentences each) manner. For more information please follow the links. 
+The purpose of this section is to introduce concepts in an incredibly brief (1-2 sentences each) manner. For more information please follow the links.
 
 - **Blockchain**: A decentralized database. The technicalities of this are not relevant for our discussion. What is important to know however, is that there are many different blockchains (e.g. Bitcoin, Ethereum, Cardano, Algorand, Polkadot etc), and usually, each blockchain has its own (crypto)currency.
 - **Cryptocurrency**: Magic internet money. Bitcoin (BTC) is the most well known cryptocurrency and the oldest. Ethereum (ETH) is another well known cryptocurrency (and the basis for most current CryptoArt platforms). There are thousands of other cryptocurrencies (typically small volume cryptocurrencies are collectively known as **altcoins**).
 - **CryptoArt**: Art registered on the blockchain. I.e. Media is associated with an **NFT**.
-https://www.artnome.com/news/2018/1/14/what-is-cryptoart 
-- **NFT**: Non-Fungible Token. A unique token (i.e. long number or string) that is associated with some media (e.g. image, video, poem, whatever) or any unique asset, such as a house, property etc which has its ID or file registered specifically to one block on the blockchain. 
+https://www.artnome.com/news/2018/1/14/what-is-cryptoart
+- **NFT**: Non-Fungible Token. A unique token (i.e. long number or string) that is associated with some media (e.g. image, video, poem, whatever) or any unique asset, such as a house, property etc which has its ID or file registered specifically to one block on the blockchain.
 Detailed description: https://opensea.io/blog/guides/non-fungible-tokens
-- **Smart Contract**: A fancy way of saying “a program that lives and runs on the blockchain”. Smart contracts are what creates and keeps track of NFTs, ASAs, Dapps etc. Some of these types of contracts can be legally binding.  
-- **Minting an NFT**: The act of ‘creating’ an NFT, i.e. registering the token on the blockchain, and associating it with your media (e.g. file). 
+- **Smart Contract**: A fancy way of saying “a program that lives and runs on the blockchain”. Smart contracts are what creates and keeps track of NFTs, ASAs, Dapps etc. Some of these types of contracts can be legally binding.
+- **Minting an NFT**: The act of ‘creating’ an NFT, i.e. registering the token on the blockchain, and associating it with your media (e.g. file).
 - **NFT Platform / Marketplace**: A website which allows people to buy & sell NFTs. Think ebay or Amazon, except it uses a blockchain in the background. Different platforms can:
     - use different blockchains (though currently nearly all of them use Ethereum)
     - use different approaches to accepting artists. e.g.:
@@ -51,31 +51,31 @@ Detailed description: https://opensea.io/blog/guides/non-fungible-tokens
 ## Ways to make it better
 Here are just some of the ways to improve the carbon footprint of NFTs:
 ### Still using Ethereum:
-- **Lazy minting**: This is not nessecarily dramatically better, around 2x, or maybe 3x less carbon footprint. 
+- **Lazy minting**: This is not necessarily dramatically better, around 2x, or maybe 3x less carbon footprint.
 - **Sidechains**: NFTs are minted on non-Ethereum PoS sidechains, but can be moved onto Ethereum later. If they are not moved, can be hundreds times more efficient.
-- **Bridges**: Are specifically for making one blockchain ecosystem compatible with another blockchain. This can also be referred to as interoperability and allows chains to interact which otherwise cannot. The advantage of this is you can go from ETH to another less impactful chain without loosing the data minted. 
-- **Various Layer 2 (L2) scaling optimisations**: Can be upto 100x more efficient.
+- **Bridges**: Are specifically for making one blockchain ecosystem compatible with another blockchain. This can also be referred to as interoperability and allows chains to interact which otherwise cannot. The advantage of this is you can go from ETH to another less impactful chain without loosing the data minted.
+- **Various Layer 2 (L2) scaling optimizations**: Can be up to 100x more efficient.
 
 ### Using other blockchains:
-- Instead of Ethereum, other blockchains are used. This can be up to hundreds of times better for the environment in terms of carbon footprint. Some of these chains include Algorand, Tezos, Polkadot and other PoS networks. 
+- Instead of Ethereum, other blockchains are used. This can be up to hundreds of times better for the environment in terms of carbon footprint. Some of these chains include Algorand, Tezos, Polkadot and other PoS networks.
 
 ---
 
 ## NFT Platforms & Marketplaces
-These are the websites that you would use to upload, ‘mint’ and sell your works. 
+These are the websites that you would use to upload, ‘mint’ and sell your works.
 For sake of simplicity, we can say that from an ecological perspective, Ethereum (which uses PoW), is the worst (unless sidechains or L2 scaling is implemented).
 
-Platforms using different blockchains (e.g. using PoS, PoA etc) will generally be hundreds times more efficient. For those wishing to not incur the immense footprints of Ethereum, look for - and support - alternatives. Sales may be lower for now (see the **Risks** section at the end). This document doesn’t aim to give advice, instead it is a **first step** in collecting this information in one place. 
+Platforms using different blockchains (e.g. using PoS, PoA etc) will generally be hundreds times more efficient. For those wishing to not incur the immense footprints of Ethereum, look for - and support - alternatives. Sales may be lower for now (see the **Risks** section at the end). This document doesn’t aim to give advice, instead it is a **first step** in collecting this information in one place.
 
 Hopefully if there is enough demand for **sustainable and transparent platforms**, this can encourage developers, investors and collectors to invest in and develop these more ecologically friendly alternatives and grow the market. (And hopefully the community can provide more feedback - perhaps in the [issues](https://github.com/memo/eco-nft/issues)).
 
- 
-### Opensea - open marketplace for all kinds of digital collectibles
-- https://opensea.io/ 
+
+### OpenSea - open marketplace for all kinds of digital collectibles
+- https://opensea.io/
 - Blockchain: **Ethereum** (ETH), but **Tezos** (XTZ) support coming soon [[link](https://opensea.io/blog/announcements/tezos-nfts-are-coming-to-opensea/)]
 - Also uses Matic sidechain for ETH [[link](https://matic.opensea.io/)]
 - Open to everybody (not invite only or curated)
-- NFT Factory: allows users to create their own contracts 
+- NFT Factory: allows users to create their own contracts
 - No gas fees (lazy minting)
 
 ### KodaDot - open marketplace for all kinds of digital collectibles
@@ -85,26 +85,26 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 - Open application (not invite only or curated)
 
 ### Mintbase - open marketplace for all kinds of digital collectibles
-- https://mintbase.io/ 
+- https://mintbase.io/
 - Blockchain: **Ethereum** (ETH), but **NEAR** coming soon [[link](https://near.org/how-mintbase-made-minting-nfts-cheaper-faster-scalable-and-secure-with-near/), [link](https://medium.com/mintbase/scaling-mintbase-with-near-503375d92702)]
-- NFT Factory: allows users to create their own contracts 
+- NFT Factory: allows users to create their own contracts
 - Open to everybody (not invite only or curated)
 
 ### Rarible - open marketplace for all kinds of digital collectibles
-- https://rarible.com/ 
+- https://rarible.com/
 - Blockchain: **Ethereum** (ETH)
-- NFT Factory: allows users to create their own contracts 
+- NFT Factory: allows users to create their own contracts
 - Open to everybody (not invite only or curated)
 
 ### Viv3 - open marketplace for digital art
-- https://viv3.com/ 
+- https://viv3.com/
 - Blockchain: **Flow** (by CryptoKitties folks, used by one of the largest NFT platforms, [NBA topshots](https://www.nbatopshot.com/))
 - Open application (not invite only or curated)
 
 ### Cargo - open marketplace for all kinds of digital collectibles
 - https://cargo.build/
 - Blockchain: **Ethereum** (ETH)
-- NFT Factory: allows users to create their own contracts 
+- NFT Factory: allows users to create their own contracts
 - Open to everybody (not invite only or curated)
 
 ### NFTshowroom - open marketplace for digital art
@@ -113,36 +113,36 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 - Open to everybody (not invite only or curated, but verified)
 
 ### Async Art - curated marketplace for programmable art
-- https://async.art/ 
+- https://async.art/
 - Blockchain: **Ethereum** (ETH)
 - Curated
 
 ### SuperRare - curated marketplace for digital art
-- https://superrare.co/ 
+- https://superrare.co/
 - Blockchain: **Ethereum** (ETH)
 - Curated
 - Minting Only (i.e. platform owns contract)
 
 ### NiftyGateway - curated marketplace for digital art
-- https://niftygateway.com/ 
+- https://niftygateway.com/
 - Blockchain: **Ethereum** (ETH)
 - Curated
 - Minting Only (i.e. platform owns contract)
 
 ### Foundation - curated marketplace for digital art
 - https://foundation.app/
-- Blockchain: **Ethereum** (ETH) 
-- Curated 
+- Blockchain: **Ethereum** (ETH)
+- Curated
 
 ### Makerspace - curated marketplace for digital art
-- https://makersplace.com/ 
-- Blockchain: **Ethereum** (ETH) 
-- Curated 
+- https://makersplace.com/
+- Blockchain: **Ethereum** (ETH)
+- Curated
 
 ### Known Origin - curated marketplace for digital art
-- https://knownorigin.io/ 
-- Blockchain: **Ethereum** (ETH) 
-- Curated 
+- https://knownorigin.io/
+- Blockchain: **Ethereum** (ETH)
+- Curated
 
 ### Atomic - open marketplace for all kinds of digital collectibles
 - https://wax.atomichub.io/
@@ -150,7 +150,7 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 - open to everybody (not invite only or curated)
 
 ### Zora
-- https://zora.co/ 
+- https://zora.co/
 - Blockchain: **Ethereum** (ETH)
 - Open to everybody (not invite only or curated)
 
@@ -160,7 +160,7 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 - Open to everybody (not invite only or curated)
 
 ### Paras - curated marketplace for digital art cards
-- https://paras.id/ 
+- https://paras.id/
 - Blockchain: **NEAR**
 - Open to everybody (not invite only or curated, but verified)
 
@@ -171,7 +171,7 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 
 ### Eporio - open marketplace for digital art
 - https://epor.io/
-- BLockchain: **xDai**
+- Blockchain: **xDai**
 - Open to everybody (not invite only or curated)
 
 ### Lovada - inclusive marketplace for digital art
@@ -180,7 +180,7 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 - *Under development*
 
 ### Kalamint - curated marketplace for digital art
-- https://kalamint.io/ 
+- https://kalamint.io/
 - Blockchain: **Tezos** (XTZ)
 - *Under development*
 
@@ -208,16 +208,16 @@ There’s not much an individual CryptoArtist can do with the following informat
 - Kusama (KSM): https://kusama.network/ (PoS)
 - Avalanche (AVAX): https://www.avalabs.org/ (PoS)
 - EOS: https://eos.io/ (DPoS)
-- HIVE: https://hive.io 
+- HIVE: https://hive.io
 - Kira: https://kira.network/ (PoS)
 - Harmony: https://www.harmony.one (PoS)
 ---
 
 ## Risks
 - Cryptocurrencies are notoriously volatile [[4](https://coinmarketcap.com/)], and their values can dramatically fall (or rise). E.g. if you sell a NFT for 1 ETH, which is currently worth ~\$1600, the value of ETH could later drop to a few hundred $ in a few months, or even in a few weeks (alternatively, it could rise to two or three thousand $$ too).
-- This becomes potentially even more risky (or potentially more rewarding) with cryptocurrencies that have a much smaller market cap (e.g. NEAR, XTZ, AVAX etc), which could die and drop to zero (or go to the moon) in a few weeks. 
-- Please act responsibly. Seek financial advice if need be (preferably not from YouTube, TikTok, Elon Musk or Chamath Palihapitiya). 
-- The smaller blockchains are likely to have fewer collectors. So expect smaller sales on these platforms. (Though as more people start to use these blockchains for NFTs the prices will likely rise with demand). 
+- This becomes potentially even more risky (or potentially more rewarding) with cryptocurrencies that have a much smaller market cap (e.g. NEAR, XTZ, AVAX etc), which could die and drop to zero (or go to the moon) in a few weeks.
+- Please act responsibly. Seek financial advice if need be (preferably not from YouTube, TikTok, Elon Musk or Chamath Palihapitiya).
+- The smaller blockchains are likely to have fewer collectors. So expect smaller sales on these platforms. (Though as more people start to use these blockchains for NFTs the prices will likely rise with demand).
 
 ---
 
@@ -230,15 +230,14 @@ and many more.
 
 Please submit a [pull-request](https://github.com/memo/eco-nft/pulls) or [issue](https://github.com/memo/eco-nft/issues) if you would like to make any changes or have any comments.
 
-Pull requests: 
+Pull requests:
 - Small and atomic (i.e. each pull request should be a change to one location, and in a separate branch if need be)
 - Please don’t send pull-requests which change whitespace or line-endings etc
 
 
 ---
 ## References
-1. https://cryptoart.io/artists 
-2. https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053 
-3. https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#co2-embedded-in-trade 
-4. https://coinmarketcap.com/ 
-
+1. https://cryptoart.io/artists
+2. https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053
+3. https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#co2-embedded-in-trade
+4. https://coinmarketcap.com/
