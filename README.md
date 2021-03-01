@@ -51,10 +51,10 @@ Detailed description: https://opensea.io/blog/guides/non-fungible-tokens
 ## Ways to make it better
 Here are just some of the ways to improve the carbon footprint of NFTs:
 ### Still using Ethereum:
-- **Lazy minting**: This is not nessecarily dramatically better, around 2x, or maybe 3x less carbon footprint.
+- **Lazy minting**: This is not necessarily dramatically better, around 2x, or maybe 3x less carbon footprint.
 - **Sidechains**: NFTs are minted on non-Ethereum PoS sidechains, but can be moved onto Ethereum later. If they are not moved, can be hundreds times more efficient.
 - **Bridges**: Are specifically for making one blockchain ecosystem compatible with another blockchain. This can also be referred to as interoperability and allows chains to interact which otherwise cannot. The advantage of this is you can go from ETH to another less impactful chain without loosing the data minted.
-- **Various Layer 2 (L2) scaling optimisations**: Can be upto 100x more efficient.
+- **Various Layer 2 (L2) scaling optimizations**: Can be up to 100x more efficient.
 
 ### Using other blockchains:
 - Instead of Ethereum, other blockchains are used. This can be up to hundreds of times better for the environment in terms of carbon footprint. Some of these chains include Algorand, Tezos, Polkadot and other PoS networks.
@@ -70,7 +70,7 @@ Platforms using different blockchains (e.g. using PoS, PoA etc) will generally b
 Hopefully if there is enough demand for **sustainable and transparent platforms**, this can encourage developers, investors and collectors to invest in and develop these more ecologically friendly alternatives and grow the market. (And hopefully the community can provide more feedback - perhaps in the [issues](https://github.com/memo/eco-nft/issues)).
 
 
-### Opensea - open marketplace for all kinds of digital collectibles
+### OpenSea - open marketplace for all kinds of digital collectibles
 - https://opensea.io/
 - Blockchain: **Ethereum** (ETH), but **Tezos** (XTZ) support coming soon [[link](https://opensea.io/blog/announcements/tezos-nfts-are-coming-to-opensea/)]
 - Also uses Matic sidechain for ETH [[link](https://matic.opensea.io/)]
@@ -171,7 +171,7 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 
 ### Eporio - open marketplace for digital art
 - https://epor.io/
-- BLockchain: **xDai**
+- Blockchain: **xDai**
 - Open to everybody (not invite only or curated)
 
 ### Lovada - inclusive marketplace for digital art
