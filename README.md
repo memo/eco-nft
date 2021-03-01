@@ -152,22 +152,27 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 ### Zora
 - https://zora.co/ 
 - Blockchain: **Ethereum** (ETH)
-- open to everybody (not invite only or curated)
+- Open to everybody (not invite only or curated)
 
 ### Pixeos - open marketplace for digital art
 - https://pixeos.io/
 - Blockchain: **EOS**
-- open to everybody (not invite only or curated)
+- Open to everybody (not invite only or curated)
 
 ### Paras - curated marketplace for digital art cards
 - https://paras.id/ 
 - Blockchain: **NEAR**
 - Open to everybody (not invite only or curated, but verified)
 
-### Solible - he marketplace for redeemable NFTs
+### Solible - marketplace for redeemable NFTs
 - https://solible.com
 - Blockchain: **Solana** (SOL)
 - Open to everybody ([how to mint](https://help.bonfida.com/solible/listing/))
+
+### Eporio - open marketplace for digital art
+- https://epor.io/
+- BLockchain: **xDai**
+- Open to everybody (not invite only or curated)
 
 ### Lovada - inclusive marketplace for digital art
 - https://twitter.com/lovadaart
