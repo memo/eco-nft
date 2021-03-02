@@ -184,6 +184,12 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 - Blockchain: **Tezos** (XTZ)
 - *Under development*
 
+### SIGN Art - curated marketplace for digital art
+- https://sign-art.app/
+- Blockchain: **Waves Protocol** (WAVES)
+- Open application (with a curated option)
+- Free minting (Lazy mint on buy request)
+
 ---
 
 ## Blockchains
@@ -201,6 +207,7 @@ There’s not much an individual CryptoArtist can do with the following informat
 - Cardano (ADA): https://cardano.org/ (PoS)
 - Solana (SOL): https://solana.com/ (PoS)
 - Polkadot (DOT): https://polkadot.network/ (PoS)
+- Waves Protocol (WAVES): https://waves.tech/ (LPoS)
 
 
 ### WIP or recently released
