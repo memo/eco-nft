@@ -69,8 +69,72 @@ Platforms using different blockchains (e.g. using PoS, PoA etc) will generally b
 
 Hopefully if there is enough demand for **sustainable and transparent platforms**, this can encourage developers, investors and collectors to invest in and develop these more ecologically friendly alternatives and grow the market. (And hopefully the community can provide more feedback - perhaps in the [issues](https://github.com/memo/eco-nft/issues)).
 
+### Eco-friendly 
+#### KodaDot - open marketplace for all kinds of digital collectibles
+- https://kodadot.xyz/
+- Blockchain: **Kusama**/**Polkadot**
+- implemented RMRK.app standard
+- Open application (not invite only or curated)
 
-### OpenSea - open marketplace for all kinds of digital collectibles
+#### Viv3 - open marketplace for digital art
+- https://viv3.com/
+- Blockchain: **Flow** (by CryptoKitties folks, used by one of the largest NFT platforms, [NBA topshots](https://www.nbatopshot.com/))
+- Open application (not invite only or curated)
+
+#### hic et nunc - open marketplace for digital art
+- https://www.hicetnunc.xyz/
+- Blockchain: **Tezos** (XTZ)
+- Open application (not invite only or curated) https://twitter.com/hicetnunc2000
+ 
+#### Kalamint - curated marketplace for digital art
+- https://kalamint.io/
+- Blockchain: **Tezos** (XTZ)
+- *Under development*
+
+#### SIGN Art - curated marketplace for digital art
+- https://sign-art.app/
+- Blockchain: **Waves Protocol** (WAVES)
+- Open application (with a curated option)
+- Free minting (Lazy mint on buy request)
+
+#### Atomic - open marketplace for all kinds of digital collectibles
+- https://wax.atomichub.io/
+- Blockchain: **Wax**
+- open to everybody (not invite only or curated)
+
+#### Pixeos - open marketplace for digital art
+- https://pixeos.io/
+- Blockchain: **EOS**
+- Open to everybody (not invite only or curated)
+
+#### Paras - curated marketplace for digital art cards
+- https://paras.id/
+- Blockchain: **NEAR**
+- Open to everybody (not invite only or curated, but verified)
+
+#### NFTshowroom - open marketplace for digital art
+- https://nftshowroom.com/
+- Blockchain: **HIVE**
+- Open to everybody (not invite only or curated, but verified)
+
+#### Eporio - open marketplace for digital art
+- https://epor.io/
+- Blockchain: **xDai**
+- Open to everybody (not invite only or curated)
+
+#### Solible - marketplace for redeemable NFTs
+- https://solible.com
+- Blockchain: **Solana** (SOL)
+- Open to everybody ([how to mint](https://help.bonfida.com/solible/listing/))
+
+#### Lovada - inclusive marketplace for digital art
+- https://twitter.com/lovadaart
+- Blockchain: **Cardano** (ADA)
+- *Under development*
+
+
+### Not eco-friendly
+#### OpenSea - open marketplace for all kinds of digital collectibles
 - https://opensea.io/
 - Blockchain: **Ethereum** (ETH), but **Tezos** (XTZ) support coming soon [[link](https://opensea.io/blog/announcements/tezos-nfts-are-coming-to-opensea/)]
 - Also uses Matic sidechain for ETH [[link](https://matic.opensea.io/)]
@@ -78,117 +142,60 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 - NFT Factory: allows users to create their own contracts
 - No gas fees (lazy minting)
 
-### KodaDot - open marketplace for all kinds of digital collectibles
-- https://kodadot.xyz/
-- Blockchain: **Kusama**/**Polkadot**
-- implemented RMRK.app standard
-- Open application (not invite only or curated)
-
-### Mintbase - open marketplace for all kinds of digital collectibles
+#### Mintbase - open marketplace for all kinds of digital collectibles
 - https://mintbase.io/
 - Blockchain: **Ethereum** (ETH), but **NEAR** coming soon [[link](https://near.org/how-mintbase-made-minting-nfts-cheaper-faster-scalable-and-secure-with-near/), [link](https://medium.com/mintbase/scaling-mintbase-with-near-503375d92702)]
 - NFT Factory: allows users to create their own contracts
 - Open to everybody (not invite only or curated)
 
-### Rarible - open marketplace for all kinds of digital collectibles
+#### Rarible - open marketplace for all kinds of digital collectibles
 - https://rarible.com/
 - Blockchain: **Ethereum** (ETH)
 - NFT Factory: allows users to create their own contracts
 - Open to everybody (not invite only or curated)
 
-### Viv3 - open marketplace for digital art
-- https://viv3.com/
-- Blockchain: **Flow** (by CryptoKitties folks, used by one of the largest NFT platforms, [NBA topshots](https://www.nbatopshot.com/))
-- Open application (not invite only or curated)
-
-### Cargo - open marketplace for all kinds of digital collectibles
+#### Cargo - open marketplace for all kinds of digital collectibles
 - https://cargo.build/
 - Blockchain: **Ethereum** (ETH)
 - NFT Factory: allows users to create their own contracts
 - Open to everybody (not invite only or curated)
 
-### NFTshowroom - open marketplace for digital art
-- https://nftshowroom.com/
-- Blockchain: **HIVE**
-- Open to everybody (not invite only or curated, but verified)
-
-### Async Art - curated marketplace for programmable art
+#### Async Art - curated marketplace for programmable art
 - https://async.art/
 - Blockchain: **Ethereum** (ETH)
 - Curated
 
-### SuperRare - curated marketplace for digital art
+#### SuperRare - curated marketplace for digital art
 - https://superrare.co/
 - Blockchain: **Ethereum** (ETH)
 - Curated
 - Minting Only (i.e. platform owns contract)
 
-### NiftyGateway - curated marketplace for digital art
+#### NiftyGateway - curated marketplace for digital art
 - https://niftygateway.com/
 - Blockchain: **Ethereum** (ETH)
 - Curated
 - Minting Only (i.e. platform owns contract)
 
-### Foundation - curated marketplace for digital art
+#### Foundation - curated marketplace for digital art
 - https://foundation.app/
 - Blockchain: **Ethereum** (ETH)
 - Curated
 
-### Makerspace - curated marketplace for digital art
+#### Makerspace - curated marketplace for digital art
 - https://makersplace.com/
 - Blockchain: **Ethereum** (ETH)
 - Curated
 
-### Known Origin - curated marketplace for digital art
+#### Known Origin - curated marketplace for digital art
 - https://knownorigin.io/
 - Blockchain: **Ethereum** (ETH)
 - Curated
 
-### Atomic - open marketplace for all kinds of digital collectibles
-- https://wax.atomichub.io/
-- Blockchain: **Wax**
-- open to everybody (not invite only or curated)
-
-### Zora
+#### Zora
 - https://zora.co/
 - Blockchain: **Ethereum** (ETH)
 - Open to everybody (not invite only or curated)
-
-### Pixeos - open marketplace for digital art
-- https://pixeos.io/
-- Blockchain: **EOS**
-- Open to everybody (not invite only or curated)
-
-### Paras - curated marketplace for digital art cards
-- https://paras.id/
-- Blockchain: **NEAR**
-- Open to everybody (not invite only or curated, but verified)
-
-### Solible - marketplace for redeemable NFTs
-- https://solible.com
-- Blockchain: **Solana** (SOL)
-- Open to everybody ([how to mint](https://help.bonfida.com/solible/listing/))
-
-### Eporio - open marketplace for digital art
-- https://epor.io/
-- Blockchain: **xDai**
-- Open to everybody (not invite only or curated)
-
-### Lovada - inclusive marketplace for digital art
-- https://twitter.com/lovadaart
-- Blockchain: **Cardano** (ADA)
-- *Under development*
-
-### Kalamint - curated marketplace for digital art
-- https://kalamint.io/
-- Blockchain: **Tezos** (XTZ)
-- *Under development*
-
-### SIGN Art - curated marketplace for digital art
-- https://sign-art.app/
-- Blockchain: **Waves Protocol** (WAVES)
-- Open application (with a curated option)
-- Free minting (Lazy mint on buy request)
 
 ---
 
