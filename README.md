@@ -238,7 +238,7 @@ There’s not much an individual CryptoArtist can do with the following informat
 ## Acknowledgements & Contributions
 The information in this document is a collective effort from many people including:
 
-Memo Akten, Primavera De Filippi, Joanie Lemercier, Addie Wagenknecht, Mat Dryhurst, Sutu_eats_flies, everybody in the "eco-friendly NFTs" discord
+Memo Akten, Primavera De Filippi, Joanie Lemercier, Addie Wagenknecht, Mat Dryhurst, Sutu_eats_flies, everybody in the ["eco-NFTs" discord [5]](https://discord.com/invite/X2BefZVtWh) 
 and many more.
 (Also see https://github.com/memo/eco-nft/graphs/contributors )
 
@@ -255,3 +255,4 @@ Pull requests:
 2. https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053
 3. https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#co2-embedded-in-trade
 4. https://coinmarketcap.com/
+5. https://discord.com/invite/X2BefZVtWh
