@@ -197,6 +197,11 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 - Blockchain: **Ethereum** (ETH)
 - Open to everybody (not invite only or curated)
 
+#### RATS - trading marketplace for digital art
+- https://rats.art/
+- Blockchain: **Ethereum** (ETH)
+- RATS is a free service with no added fees for cryptoartists and collectors
+
 ---
 
 ## Blockchains
