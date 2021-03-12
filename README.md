@@ -182,7 +182,7 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 - Blockchain: **Ethereum** (ETH)
 - Curated
 
-#### Makerspace - curated marketplace for digital art
+#### MakersPlace - curated marketplace for digital art
 - https://makersplace.com/
 - Blockchain: **Ethereum** (ETH)
 - Curated
