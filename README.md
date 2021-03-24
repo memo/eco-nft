@@ -57,7 +57,7 @@ Here are just some of the ways to improve the carbon footprint of NFTs:
 - **Various Layer 2 (L2) scaling optimizations**: Can be up to 100x more efficient.
 
 ### Using other blockchains:
-- Instead of Ethereum, other blockchains are used. This can be up to hundreds of times better for the environment in terms of carbon footprint. Some of these chains include Algorand, Tezos, Polkadot and other PoS networks.
+- Instead of Ethereum, other blockchains are used. This can be up to hundreds of times better for the environment in terms of carbon footprint. Some of these chains include Algorand, Tezos, Polkadot, Hedera Hashgraph, and other PoS networks.
 
 ---
 
@@ -220,7 +220,7 @@ There’s not much an individual CryptoArtist can do with the following informat
 - Solana (SOL): https://solana.com/ (PoS)
 - Polkadot (DOT): https://polkadot.network/ (PoS)
 - Waves Protocol (WAVES): https://waves.tech/ (LPoS)
-
+- Hedera Hashgraph (HBAR): https://hedera.com/ (PoS) (Native NFTs without a smart contract for lower energy consumption)
 
 ### WIP or recently released
 - Ethereum2: https://ethereum.org/en/eth2/ (PoS)
