@@ -202,6 +202,12 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 - Blockchain: **Ethereum** (ETH)
 - RATS is a free service with no added fees for cryptoartists and collectors
 
+#### chocomint
+- https://chocomint.app/
+- Blockchain: **Ethereum** (ETH) **Polygon** (MATIC)
+- Open to everybody
+- Allows people to mint cheaply
+
 ---
 
 ## Blockchains
