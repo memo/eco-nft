@@ -89,7 +89,7 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 #### Kalamint - curated marketplace for digital art
 - https://kalamint.io/
 - Blockchain: **Tezos** (XTZ)
-- *Under development*
+- Open application (not invite only or curated)
 
 #### SIGN Art - curated marketplace for digital art
 - https://sign-art.app/
