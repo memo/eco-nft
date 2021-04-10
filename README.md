@@ -134,6 +134,11 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 - Blockchain: **Cardano** (ADA)
 - *Under development*
 
+#### Stellar NFT
+- https://stellarnft.com/
+- Blockchain: **Stellar** (XLM)
+- Open to everybody
+
 
 ### Not eco-friendly
 #### OpenSea - open marketplace for all kinds of digital collectibles
@@ -229,6 +234,7 @@ There’s not much an individual CryptoArtist can do with the following informat
 - Polkadot (DOT): https://polkadot.network/ (PoS)
 - Waves Protocol (WAVES): https://waves.tech/ (LPoS)
 - Hedera Hashgraph (HBAR): https://hedera.com/ (PoS) (Native NFTs without a smart contract for lower energy consumption)
+- Stellar (XLM): https://www.stellar.org/ (PoS) (uses federated byzantine agreement system)
 
 ### WIP or recently released
 - Ethereum2: https://ethereum.org/en/eth2/ (PoS)
