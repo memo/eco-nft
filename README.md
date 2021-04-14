@@ -3,7 +3,10 @@
 ## Introduction
 *This article is not a comprehensive “CryptoArt for beginners”. It’s more of a very brief (as possible) **first step** towards a guide for the adventurous artist who wants to create and sell CryptoArtworks (or NFTs) on the blockchain - **on sustainable platforms**. Since the field is moving so rapidly, **the information below is likely to go out of date very quickly**. We will try to keep it up to date via [pull-requests](https://github.com/memo/eco-nft/pulls) and [issues](https://github.com/memo/eco-nft/issues). And I **hope the platforms themselves will add relevant information, “Statement of Values”, and roadmaps to their own site**.*
 
-***For more up-to-date information, daily discussions and reviews please see the ["Clean-NFTs" discord [5]](https://discord.com/invite/X2BefZVtWh)**.*
+***For more up-to-date information, daily discussions and reviews please visit***
+- ["Clean-NFTs" discord](https://discord.com/invite/X2BefZVtWh)
+- ["Clean-NFTs Developer Community" spreadsheet](https://docs.google.com/spreadsheets/d/1A-7Ama31sYWhXDl6NoJaXnbAV9pFbjxLIgl7jb3CHOs/edit#gid=0)
+- [cleannfts.org](https://cleannfts.org/)
 
 ---
 
