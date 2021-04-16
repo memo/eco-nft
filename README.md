@@ -218,6 +218,10 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 - Open to everybody
 - Allows people to mint cheaply
 
+#### nanakusa
+- https://nanakusa.io/
+- Blockchain: **Ethereum** (ETH) **Polygon** (MATIC)
+- Curated
 ---
 
 ## Blockchains
@@ -238,6 +242,7 @@ There’s not much an individual CryptoArtist can do with the following informat
 - Waves Protocol (WAVES): https://waves.tech/ (LPoS)
 - Hedera Hashgraph (HBAR): https://hedera.com/ (PoS) (Native NFTs without a smart contract for lower energy consumption)
 - Stellar (XLM): https://www.stellar.org/ (PoS) (uses federated byzantine agreement system)
+- Polygon (MATIC): https://polygon.technology/ (PoS) (Ethereum-compatible blockchain networks) 
 
 ### WIP or recently released
 - Ethereum2: https://ethereum.org/en/eth2/ (PoS)
