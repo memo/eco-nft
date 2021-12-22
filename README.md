@@ -142,6 +142,11 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 - Blockchain: **Stellar** (XLM)
 - Open to everybody
 
+### Stashh
+- https://stashh.io/
+- Blockchain **Secret** (SCRT)
+- *Under development, open from 29. Dec*
+
 
 ### Not eco-friendly
 #### OpenSea - open marketplace for all kinds of digital collectibles
