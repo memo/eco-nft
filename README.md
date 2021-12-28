@@ -229,6 +229,13 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 - Curated
 ---
 
+#### PaceArt - open marketplace for many kinds of digital collectibles (image, mp3, mp4, gifs,...)
+- https://app.pace.art/
+- Blockchain: **Ethereum** (ETH)
+- Open to everybody (not invite only or curated)
+- NFT Factory: allows users to create their own contracts
+- No gas fees (lazy minting)
+
 ## Blockchains
 There’s not much an individual CryptoArtist can do with the following information without a platform (i.e. website and marketplace) using these blockchains, or without coding everything themselves. But the list is still included here as a guide, in case you hear these words and wonder what they are:
 
