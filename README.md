@@ -76,6 +76,13 @@ Platforms using different blockchains (e.g. using PoS, PoA etc) will generally b
 Hopefully if there is enough demand for **sustainable and transparent platforms**, this can encourage developers, investors and collectors to invest in and develop these more ecologically friendly alternatives and grow the market. (And hopefully the community can provide more feedback - perhaps in the [issues](https://github.com/memo/eco-nft/issues)).
 
 ### Eco-friendly 
+#### hic et nunc - open marketplace for digital art
+- https://www.hicetnunc.xyz/
+- Blockchain: **Tezos** (XTZ)
+- Open application (not invite only or curated)
+- Note: The original Hic et Nunc (aka HEN) site is discontinued. However, the HEN smart contract is still live, and HEN NFTs can be viewed and collected via these community developed websites (all showing the same NFTs, but using different front-ends*):
+   - [hicetnunc.art](https://hicetnunc.art) | [hic.af](https://hic.af) | [henext.xyz](https://henext.xyz) | [hecticnun.xyz](https://hecticnun.xyz)
+
 #### KodaDot - open marketplace for all kinds of digital collectibles
 - https://kodadot.xyz/
 - Blockchain: **Kusama**/**Polkadot**
@@ -86,11 +93,6 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 - https://viv3.com/
 - Blockchain: **Flow** (by CryptoKitties folks, used by one of the largest NFT platforms, [NBA topshots](https://www.nbatopshot.com/))
 - Open application (not invite only or curated)
-
-#### hic et nunc - open marketplace for digital art
-- https://www.hicetnunc.xyz/
-- Blockchain: **Tezos** (XTZ)
-- Open application (not invite only or curated) https://twitter.com/hicetnunc2000
  
 #### Kalamint - curated marketplace for digital art
 - https://kalamint.io/
